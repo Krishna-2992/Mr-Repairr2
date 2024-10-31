@@ -1,0 +1,42 @@
+{
+    "professions": [
+        {
+            "id": 1,
+            "title": "Electrician",
+            "imageUrl": "../assets/electrician.png",
+            "description": "Professional electrical solutions for all your needs."
+        },
+        {
+            "id": 2,
+            "title": "Plumber",
+            "imageUrl": "../assets/plumber.png",
+            "description": "Expert plumbing services for your home or office."
+        },
+        {
+            "id": 3,
+            "title": "Carpenter",
+            "imageUrl": "../assets/carpenter.png",
+            "description": "Skilled carpentry for furniture and home improvement."
+        },
+        {
+            "id": 4,
+            "title": "Pest Control",
+            "imageUrl": "../assets/pest_control.jpg",
+            "description": "Effective pest control services for a safer environment."
+        }
+    ],
+    "genders": [
+        {
+            "id": 1,
+            "title": "Male"
+        },
+        {
+            "id": 2,
+            "title": "Female"
+        },
+        {
+            "id": 3,
+            "title": "Other"
+        }
+    ]
+}
